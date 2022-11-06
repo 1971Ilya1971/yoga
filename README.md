@@ -16,7 +16,8 @@ In  this  project i practiced writing native JavaScript:
 
 ## Demo 🎥
 
-The completed project can be viewed [here](https://rimerian.github.io/yoga-project/ "demo url")
+The completed project can be viewed [here]( https://1971ilya1971.github.io/yoga/
+Последнийраз развернут@github-страницgithub-pages3 minutes ago)
 
 ## How to Use 🔧
 
